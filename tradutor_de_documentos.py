@@ -5,7 +5,7 @@ import requests
 from docx import Document
 import os
 
-subscription_key = 'KEY-HERE'
+subscription_key = 'KEY-HERE' #Insira Aqui a chave de assinatura
 endpoit = 'https://api.cognitive.microsofttranslator.com/'
 location = 'westus2'
 language_destination = 'pt-br'
